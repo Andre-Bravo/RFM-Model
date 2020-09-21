@@ -6,3 +6,4 @@ This script segments customores in the Ecommerce dataset using the **RFM Model**
 
 ### Example
 ![Output Example](docs/RFM_Square.png)
+
