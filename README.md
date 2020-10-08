@@ -5,5 +5,5 @@
 This script segments customers in the Ecommerce dataset using the **RFM Model**, applying a simple Clustering methodology first and then impementing **K Means**.
 
 ### Example
-![Output Example](docs/RFM_Capture.png)
+![Output Example](docs/RFM_Kmeans_Capture.png)
 
